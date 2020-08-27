@@ -34,11 +34,11 @@ font-size: 19px;
 
 .container-fluid.section1>.row> .col-md-7> p{
     font-family: 'Oswald', sans-serif;
-  font-weight: lighter;
-line-height: 0.95em;
+    font-weight: lighter;
+    line-height: 0.95em;
     letter-spacing: normal;
     color: #F2BD1E;
-	font-size: 96px;
+	font-size: 86px;
 
 
 }
@@ -439,6 +439,8 @@ position: relative;
     flex-direction: row;
     justify-content: space-between;
     padding: .6rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
     font-size:25px;
 }
 .cards .card-top h1{
